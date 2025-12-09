@@ -33,8 +33,8 @@
 │     • No leverage, micro-spread capture                                 │
 │                                                                         │
 │  5. AUTOMATED REBALANCING                                               │
-│     • Maintains BTC/ETH/BNB/stable weighting                           │
-│     • Reduces drift and volatility                                     │
+│     • Maintains BTC/ETH/BNB/stable weighting                            │
+│     • Reduces drift and volatility                                      │
 └─────────────────────────────────────────────────────────────────────────┘
                    │
                    ▼
@@ -59,7 +59,7 @@
 ┌───────────────────────────────────────────────────────────┐
 │               FEE DISTRIBUTION (VERIFIED PROFIT)          │
 │     Owner share • Growth pool • War chest • Profit pool   │
-│                Buyback + permanent staking                 │
+│                Buyback + permanent staking                │
 └───────────────────────────────────────────────────────────┘
                    │
                    ▼
