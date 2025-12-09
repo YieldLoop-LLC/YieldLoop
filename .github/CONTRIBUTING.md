@@ -95,4 +95,32 @@ If you discover a vulnerability:
 
 **Do not** open a public issue.
 
-Instead email:
+Instead email: founder@yieldloop.io
+
+Provide:
+
+- Description of vulnerability  
+- How it can be reproduced  
+- Suggested fix (if known)  
+
+We follow responsible disclosure principles.
+
+---
+
+# 8. Roadmap (High-Level)
+
+Contributions are especially welcome in:
+
+- Proof batching  
+- Multi-cycle aggregation  
+- Off-chain computation modules  
+- Formal verification of the ProofEngine  
+- Frontend integration  
+- Analytics dashboards  
+- Testing frameworks  
+
+---
+
+Thank you for contributing to the YieldLoop + Veridic ecosystem.  
+Your work helps build the world’s first **proof-verified economic engine**.
+
