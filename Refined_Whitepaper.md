@@ -123,21 +123,21 @@ YieldLoop is the first platform built entirely on Veridic principles. It is desi
 
 ### **Key Properties**
 
-#### 🚀 1. A Floor Price That Only Rises  
+#### 1. A Floor Price That Only Rises  
 The floor increases only when surplus is mathematically verified.  
 It cannot fall — the model forbids it.
 
-#### 🚫 2. No Fake Yield  
+#### 2. No Fake Yield  
 No surplus = no expansion.  
 No imaginary returns.
 
-#### 🛡 3. Independent of New Participants  
+#### 3. Independent of New Participants  
 YieldLoop’s performance does not depend on new deposits.
 
-#### 🔍 4. Full Transparency  
+#### 4. Full Transparency  
 Every cycle, every change, and every adjustment is verifiable.
 
-#### ⚙️ 5. An Engine, Not a Token  
+#### 5. An Engine, Not a Token  
 YieldLoop is a *mechanism*, not hype.
 
 YieldLoop proves the Veridic principle in practice.
