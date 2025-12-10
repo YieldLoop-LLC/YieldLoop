@@ -12,7 +12,7 @@ Both tiers contribute to building a verified-finance ecosystem, but Founders rec
 
 ---
 
-## 1. SUPPORTEr NFT — $300
+## 1. SUPPORTER NFT — $300
 
 The Supporter NFT serves as the accessible, foundational membership tier for community backers.
 
