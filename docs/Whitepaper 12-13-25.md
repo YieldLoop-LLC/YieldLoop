@@ -1,7 +1,7 @@
 # YieldLoop Whitepaper
 **Verified Profit. Structural Truth. A Rising Floor That Cannot Lie.**
 
-**Version:** 1.0 (Canonical Draft)  
+**Version:** 1.3 (12-13-25)  
 **Author:** Todd Koletsky  
 **Year:** 2025  
 
